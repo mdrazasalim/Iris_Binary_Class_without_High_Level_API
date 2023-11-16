@@ -5,8 +5,8 @@
 - Spyder 
 
 ## Objective of this Code:
-1. To understand how artificial neural networks work in classifying datasets. (In this code, the Iris dataset has been used.)
-2. To comprehend the process of coding an artificial neural network. (In this code, a single neuron has been employed.) This is achieved without relying on high-level APIs like TensorFlow, Keras, or Scikit-learn.
+1. To understand how artificial neural networks work in classifying datasets. (In this code, the Iris dataset has been used)
+2. To comprehend the process of coding an artificial neural network (In this code, a single neuron has been employed) without using high-level APIs like TensorFlow, Keras, and Scikit-learn.
 
 ## Overview of this Code:
 The code is structured with clear steps and comments, along with relevant links to enhance the code's understandability.
